@@ -10,7 +10,7 @@
 
 ---
 
-## *Introduction*
+## Introduction
  This repository serves as a practical guide to mastering C programming concepts and applying them to IC design challenges.
 
 ---
