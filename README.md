@@ -5,7 +5,9 @@
 ---
 
 ## **Table of Contents**
-- Chapter One (uptill now)
+- Chapter One 
+- Chapter Two
+- Chapter Three (uptill now) 
 
 
 ---
@@ -45,8 +47,17 @@ C-Programming-for-Integrated-Circuit-Design/
 │   ├── 01_variables.c
 │   ├── 02_datatypes.c
 │   └── 03_sizeof.c
+├── Chapter Two/
+│   ├── 01_Associativity.c
+│   └── 02_Type_Casting.c
+├── Chapter Three/
+│   ├── 01_if_else_if.c
+│   ├── 02_nonzero.c
+│   ├── 03_Ternary.c
+│   ├── 04_switch.c
+│   └── 05_Quiz.c
 ├── examples/
-│   ├── hello_world.c
+│   └── hello_world.c
 └── README.md
 
 ```
