@@ -14,5 +14,5 @@ int main(){
     if ((marks1+marks2+marks3)/3<40) printf("You are not passed since the overall subject marks criteria of 40% is not met");
     else if (marks1<33||marks2<33||marks3<33)printf("You are not passed since the individual subject marks criteria of 40% is not met");
     else printf("You are passed");
-    return 0;
+    return 0;   
 }

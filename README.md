@@ -43,14 +43,14 @@
 ## **Repository Structure**
 ```
 C-Programming-for-Integrated-Circuit-Design/
-├── Chapter One/
+├── Chapter 1/
 │   ├── 01_variables.c
 │   ├── 02_datatypes.c
 │   └── 03_sizeof.c
-├── Chapter Two/
+├── Chapter 2/
 │   ├── 01_Associativity.c
 │   └── 02_Type_Casting.c
-├── Chapter Three/
+├── Chapter 3/
 │   ├── 01_if_else_if.c
 │   ├── 02_nonzero.c
 │   ├── 03_Ternary.c
