@@ -10,10 +10,8 @@ int main(){
 
     for (int i = 0; i < 5; i++)
     {
-       printf("The value of %d number is %d\n", i,  marks[i]);
+       printf(" %d\n",  &marks[i]);
     }
 
-    
-     
     return 0;
 }
